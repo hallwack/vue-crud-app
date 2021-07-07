@@ -1,5 +1,7 @@
 # vue-crud-app
 
+Simple CRUD App with Vue 3
+
 ## Project setup
 ```
 npm install
